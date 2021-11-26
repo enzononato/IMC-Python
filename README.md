@@ -1,2 +1,0 @@
-# IMC-Python
-Cálculo IMC
